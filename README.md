@@ -9,7 +9,7 @@ Use R L U and D keys to control the character in search of a hat. R + ENTER in t
 ## Technologies
 
 - Node.js v16.13.0
-- npm 8.1.0
+- npm v8.1.0
 - JavaScript ES6
 
 ## Launch 
